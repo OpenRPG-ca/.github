@@ -1,0 +1,4 @@
+# Org-wide default reviewers, used by any repository that does not define its
+# own CODEOWNERS. An agent identity must never appear here.
+
+*   @gpascucci
