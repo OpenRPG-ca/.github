@@ -1,4 +1,4 @@
-# OpenRPG.ca
+# pascucci-labs
 
 > An open tabletop role-playing system, built in Canada.
 
