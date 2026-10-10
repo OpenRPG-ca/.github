@@ -28,6 +28,6 @@ linked here as they become ready.
 ## Stay connected
 
 - [Visit openrpg.ca](https://www.openrpg.ca)
-- [Browse the OpenRPG organization](https://github.com/OpenRPG-ca)
+- [Browse the Pascucci-Labs organization](https://github.com/pascucci-labs)
 
-<sub>OpenRPG.ca · Canada</sub>
+<sub>Pascucci Labs · Canada</sub>
